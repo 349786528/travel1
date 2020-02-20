@@ -1,0 +1,9 @@
+repository = ${project.repository} 
+path = ${project.path} 
+revision = ${project.revision} 
+mixedRevisions = ${project.mixedRevisions} 
+committedRevision = ${project.committedRevision} 
+committedDate = ${project.committedDate} 
+status = ${project.status} 
+status = ${project.status}
+specialStatus = ${project.specialStatus} 

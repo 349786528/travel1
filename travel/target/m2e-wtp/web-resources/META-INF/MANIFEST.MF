@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+deploy-version: IHP-Tele2_v4.1-quantong_r${buildNumber}b_20200220
+Implementation-Title: IHP-Tele2
+Implementation-Version: 4.1-quantong
+Built-By: Alex
+Implementation-Vendor-Id: quantong
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+svn-version: 
+
